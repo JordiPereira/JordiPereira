@@ -1,6 +1,8 @@
-<!-- ## Hi there 👋
+## Hi there 👋, My name is Jordi Pereira
 
-Meu nome é Jordi Pereira sou um programador front-end, atualmente estou aprendendo e criando projetos com
+## About me
+  
+  Meu nome é Jordi Pereira sou um programador front-end, atualmente estou aprendendo e criando projetos com
 - HTML
 - CSS
 
