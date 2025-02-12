@@ -1,8 +1,5 @@
 ## Hi there 👋, My name is Jordi Pereira
 
 ## About me
-  
-  Meu nome é Jordi Pereira sou um programador front-end, atualmente estou aprendendo e criando projetos com
-- HTML
-- CSS
+  I am from Brazil, I'm a front-end developer and am currently learning HTML, CSS and JavaScript.
 
